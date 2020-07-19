@@ -8,7 +8,9 @@ Follow this tutorial: <https://www.youtube.com/watch?v=2-77KhGWlRg>
 
 Example commit: <https://github.com/hchiam/_2DNote/commit/86f3cab00aa2276eebdc64e29801731a61e11f78>
 
-A PAT (personal access token) is a generated string that looks like `l0ngStr1ng0fL3t7er5AndNum83rz`.
+You'll need this: `npm login --registry=https://npm.pkg.github.com`
+
+And you'll need a PAT (personal access token), which is a generated string that looks like `l0ngStr1ng0fL3t7er5AndNum83rz`.
 
 Make sure you set the PAT to have repo access, and also package read/write access.
 
