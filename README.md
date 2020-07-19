@@ -19,3 +19,7 @@ In your global .npmrc file `~/.npmrc`, you should add your PAT:
 ```
 
 Official docs: <https://docs.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages> (but I found the YouTube tutorial easier to follow).
+
+## You might also like
+
+<https://github.com/hchiam/npm-package-example>
